@@ -9,3 +9,7 @@ a gedit window will open with the default code to run your terminal
 add the code you want to run on the top of the exsisting code
 save the file
 and you are good to go
+
+
+Fancy text maker
+http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
